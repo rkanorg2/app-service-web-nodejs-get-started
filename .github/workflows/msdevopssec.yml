@@ -1,8 +1,5 @@
 name: MSDO Sample Workflow
-on:
-  push:
-    branches:
-      - main
+on: [push]
 
 permissions:
   id-token: write # This is required for federation to Defender for DevOps
