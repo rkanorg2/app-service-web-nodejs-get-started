@@ -5,7 +5,7 @@
         "registryName": {
             "type": "string",
             "metadata": {
-                "description": "Azure Container Registry 名1"
+                "description": "Azure Container Registry 名2"
             }
         },
         "virtualNetwork": {
